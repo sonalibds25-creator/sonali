@@ -1,0 +1,42 @@
+<!DOCTYPE>
+<html>
+<head>
+   <title>Snacks</title>
+</head>
+<body>
+<header>   
+<h1 id="tp"Snacks Webpage</h1>
+<a href="#list">Go to list</a>
+<a
+href = "https://enwikipedia.org/wiki/Snack"
+target="_blank">External Link</a>
+</header>
+<h2>Image</h2>
+<img src = "https://via.placeholder.com/200"
+alt = "Snacks Image">
+<h2 id="list"Snacks Categories</h2>
+<ol>
+<li>Healthy Snacks
+<ol>
+<li>Nuts</li>
+<li>Fruits Salad</li>
+</ol>
+</li>
+<li>Fast Food Snacks
+<ol>
+<li>Chips</li>
+<li>Sandwich</li>
+</ol>
+</li>
+</ol>
+<p>Contact: <a
+href = "mailto:example@gmail.com">Send
+Email</a></p>
+<a href="#top">Back to Top</a>
+<Footer>
+<p>@ 2026 Snacks Page</p>
+</footer>
+</body>
+</html>
+
+    
